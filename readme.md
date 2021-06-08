@@ -45,6 +45,9 @@ lectures, networking opportunities, and R programming help.
     b.  Responding to complaints and addressing concerns from R User
         Group members
 
+4.  The Steering Committee members must be based at or formally affiliated 
+    with Harvard University.
+
 **Article V: Elections**
 
 1.  The new Organizers will be decided by a consensus among the Steering
